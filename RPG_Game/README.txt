@@ -2,8 +2,8 @@ Object Oriented Programming - Project
 
 This Project was written by:
 
-1) Emmanouil Lykos ( ID Num: 1115201600096) and,
-2) Georgios Liakopoulos ( ID Num: 1115201600091).
+1) Emmanouil Lykos and,
+2) Georgios Liakopoulos.
 
 To compile this Project write on the terminal the
 command "make".

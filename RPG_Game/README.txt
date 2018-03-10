@@ -8,7 +8,7 @@ This Project was written by:
 To compile this Project write on the terminal the
 command "make".
 
-To run this Project write on the terminal the terminal
+To run this Project write on the terminal
 the command "./RPG_Game".
 
 To delete the object files and the executable file write
